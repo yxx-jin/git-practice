@@ -1,4 +1,0 @@
-total 1.0K
--rw-r--r-- 1 yjcho 197609  0 Oct 18 23:23 file_list.txt
-drwxr-xr-x 1 yjcho 197609  0 Oct 18 23:23 new_directory/
--rw-r--r-- 1 yjcho 197609 36 Oct 17 22:43 words.txt
